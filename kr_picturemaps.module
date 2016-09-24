@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the KR picturemaps feature.
+ */
+
+include_once 'kr_picturemaps.features.inc';
